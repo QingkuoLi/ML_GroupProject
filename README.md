@@ -99,5 +99,13 @@ We used a Tesla T4 NVIDIA GPU for training, a full training session took 21mins 
 | SVM   | 0.495    |
 
 ## Contributions
-- Qingkuo Li (qli3@tcd.ie): 
-- 
+- Data set collection: Qingkuo Li, Xueni Fu
+- Codes:
+  - csv2img.py: Qingkuo Li
+  - faceprocess.py: Qingkuo Li
+  - img2csv.py: Qingkuo Li
+  - imgAug.py: Qingkuo Li
+  - train_cnn.py, train_cnn.ipynb: Qingkuo Li, Xueni Fu
+  - train_seq.py, train_seq.ipynb: Xueni Fu
+  - camera.py: Qingkuo Li
+- Report: Qingkuo Li, Xueni Fu
