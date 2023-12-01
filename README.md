@@ -2,9 +2,9 @@
 
 > Group members:
 > 
-> Qingkuo Li qli3@tcd.ie
+> Qingkuo Li 
 > 
-> Xueni Fu   fuxu@tcd.ie
+> Xiaotong Sun
 
 ## Project Environment
 <img src=https://img.shields.io/badge/Python-%3E%3D3.7-blue> <img src=https://img.shields.io/badge/TensorFlow-%3E%3D2.9.2-blue> <img src=https://img.shields.io/badge/Keras-%3E%3D2.3.1-blue>
