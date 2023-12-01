@@ -111,7 +111,7 @@ We used a Tesla T4 NVIDIA GPU for training, a full training session took 21mins 
   - faceprocess.py: Qingkuo Li
   - img2csv.py: Qingkuo Li
   - imgAug.py: Qingkuo Li
-  - train_cnn.py, train_cnn.ipynb: Qingkuo Li, Xueni Fu
-  - train_seq.py, train_seq.ipynb: Xueni Fu
+  - train_cnn.py, train_cnn.ipynb: Qingkuo Li, Xiaotong Sun
+  - train_seq.py, train_seq.ipynb: Xiaotong Sun
   - camera.py: Qingkuo Li
-- Report: Qingkuo Li, Xueni Fu
+- Report: Qingkuo Li, Xiaotong Sun
